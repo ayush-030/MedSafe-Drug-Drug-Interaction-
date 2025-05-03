@@ -1,4 +1,4 @@
-# 💊 MedSafe - AI-Based Drug-Drug Interaction Detection
+# 💊 MedSafe (AI-Based Drug-Drug Interaction Detection)
 
 **MedSafe** is an intelligent drug-drug interaction (DDI) prediction system that leverages machine learning and cheminformatics to detect harmful interactions between pharmaceutical compounds. By analyzing molecular fingerprints derived from SMILES representations, MedSafe helps healthcare professionals and researchers ensure safer drug combinations.
 
