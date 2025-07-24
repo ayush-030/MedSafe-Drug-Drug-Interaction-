@@ -5,7 +5,7 @@
 ---
 
 
-🔗 **Live Demo:** [https://drug-drug-interaction.onrender.com/](https://drug-drug-interaction.onrender.com/)
+**🔗 Live Demo:** [https://drug-drug-interaction.onrender.com](https://drug-drug-interaction.onrender.com)
 
 ---
 
@@ -38,8 +38,7 @@ You can test the model by inputting pairs of the following drug names (or fetch 
 > ```
 
 ---
-
-🛠️ Tech Stack  
+🛠️ **Tech Stack**  
 **Backend:** Python, Flask  
 **Database:** MongoDB  
 **Frontend:** HTML/CSS/JavaScript (Flask-based)  
