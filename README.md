@@ -39,15 +39,12 @@ You can test the model by inputting pairs of the following drug names (or fetch 
 
 ---
 
-## 🛠 Tech Stack
-
-- **Python 3.10+**
-- **Scikit-learn** – Machine learning models
-- **RDKit** – Molecular fingerprinting
-- **Pandas / NumPy** – Data processing
-- **Matplotlib / Seaborn** – Data visualization
-- **PubChemPy** – Drug data (SMILES) retrieval *(optional)*
-- **Flask or CLI** – Application interface
+🛠️ Tech Stack  
+**Backend:** Python, Flask  
+**Database:** MongoDB  
+**Frontend:** HTML/CSS/JavaScript (Flask-based)  
+**Deployment:** Render  
+**Data Sources:** DrugBank, PubChem
 
 ---
 
