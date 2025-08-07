@@ -4,8 +4,9 @@
 
 ---
 
+## 🌐 Live Demo
 
-**🔗 Live Demo:** [https://drug-drug-interaction.onrender.com](https://drug-drug-interaction.onrender.com)
+Experience the live application here: [https://drug-drug-interaction.onrender.com](https://drug-drug-interaction.onrender.com)
 
 ---
 
